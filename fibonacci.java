@@ -10,7 +10,7 @@ public class fibonacci {
             suma = num1 + num2;
             num1 = num2;
             num2 = suma;
-        }
+        
     }
  
 }
